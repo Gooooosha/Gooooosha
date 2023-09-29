@@ -24,7 +24,7 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Lubuntu](https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gooooosha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gooooosha&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Статистика на leetcode:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=lyhtyrageorgiu&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
