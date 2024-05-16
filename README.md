@@ -25,5 +25,5 @@
 ## Статистика на leetcode:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=lyhtyrageorgiu&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
-## Мотивация:
+## Цитатник:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
