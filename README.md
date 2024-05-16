@@ -19,6 +19,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gooooosha&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Стек технологий:
+ - Backend: Python, FastAPI, Aiohttp, Asyncio, PostgreSQL, Alembic, SQLAlchemy, Pydantic, Redis, S3, Celery, Sentry
+ - Frontend: JavaScript, React, Tailwind, AntDesign
+ - Прочие навыки: Docker, Nginx, Git, Aiogram3, Linux
+
 ## Статистика на leetcode:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=lyhtyrageorgiu&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
