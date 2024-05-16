@@ -7,7 +7,7 @@
 - Люблю развиваться, изучать новое
 - Радуюсь жизни и работе с 💻
 
-## Языки и инструменты:
+## Языки:
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
