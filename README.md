@@ -15,7 +15,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gooooosha&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gooooosha&layout=compact)
 
 ## Стек технологий:
  - **Backend:** Python, FastAPI, Aiohttp, Asyncio, PostgreSQL, Alembic, SQLAlchemy, Pydantic, Redis, S3, Celery, Sentry
