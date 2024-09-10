@@ -23,7 +23,7 @@
  - **Прочие навыки:** Docker, Nginx, Git, Aiogram3, Linux
 
 ## Статистика на leetcode:
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=lyhtyrageorgiu&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![](https://leetcard.jacoblin.cool/lyhtyrageorgiu?border=0&radius=20)
 
 ## Цитатник:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
