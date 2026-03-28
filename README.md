@@ -25,6 +25,3 @@
 
 ## Статистика на leetcode:
 ![](https://leetcard.jacoblin.cool/lyhtyrageorgiu?border=0&radius=20)
-
-## Цитатник:
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
